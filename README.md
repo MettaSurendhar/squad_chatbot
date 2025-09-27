@@ -1,4 +1,4 @@
-# 🤖 Streamlit QA Chatbot
+# 🤖 SQuAD chatbot
 
 An interactive **Question Answering Chatbot** built with **Streamlit**, **Hugging Face Transformers**, and the **SQuAD** dataset.  
 You can either:
